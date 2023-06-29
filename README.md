@@ -63,3 +63,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ## Integrantes
 
 Luis Enrique Brito Vargas
+Tania Belén Galindo Villegas
